@@ -1,4 +1,4 @@
-# PROYECTO POS STORE 
+# PROYECTO POS STORE
 Sistema de POS para el curso de django avanzado II
 ## Pasos para la instalación del software
 
@@ -11,7 +11,7 @@ Este proyecto inicio desde el año 2019 para los siguientes cursos de mi canal d
 # Instaladores
 
 | Nombre                   | Instalador                                                                                                                                                                                                                     |
-|:-------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| 
+|:-------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | `Compilador`             | [Python3](https://www.python.org/downloads/release/python-396/ "Python3")                                                                                                                                                      |
 | `IDE de programación`    | [Visual Studio Code](https://code.visualstudio.com/ "Visual Studio Code"), [Sublime Text](https://www.sublimetext.com/ "Sublime Text"), [Pycharm](https://www.jetbrains.com/es-es/pycharm/download/#section=windows "Pycharm") |
 | `Motor de base de datos` | [Sqlite Studio](https://github.com/pawelsalawa/sqlitestudio/releases "Sqlite Studio"), [PostgreSQL](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads "PostgreSQL"), [MySQL](https://www.apachefriends.org/es/index.html "MySQL") |
@@ -25,13 +25,13 @@ Este proyecto inicio desde el año 2019 para los siguientes cursos de mi canal d
 Para windows:
 
 ```bash
-python3 -m venv venv 
+python3 -m venv venv
 ```
 
 Para linux:
 
 ```bash
-virtualenv venv -ppython3 
+virtualenv venv -ppython3
 ```
 
 ##### 3) Instalar el complemento de [weasyprint](https://weasyprint.org/ "weasyprint") para imprensión de archivos pdf
@@ -45,7 +45,7 @@ Si estas usando Linux debes instalar las [librerias](https://doc.courtbouillon.o
 Para windows:
 
 ```bash
-cd venv\Scripts\activate.bat 
+cd venv\Scripts\activate.bat
 ```
 
 Para Linux:
@@ -82,7 +82,7 @@ python manage.py shell --command='from core.utils import *'
 ##### 9) Iniciar el servidor del proyecto
 
 ```bash
-python manage.py runserver 
+python manage.py runserver
 ```
 
 Si deseas verlo en toda tu red puedes ejecutarlo asi:
@@ -99,25 +99,3 @@ password: hacker94
 ```
 
 ------------
-
-#  Gracias por tomar mi curso ✅🙏
-#### Esto me sirve mucho para seguir produciendo mi contenido 🤗​
-### ¡Apóyame! para seguir haciéndolo siempre 😊👏
-Paso la mayor parte de mi tiempo creando contenido y ayudando a futuros programadores sobre el desarrollo web con tecnología open source.
-
-🤗💪¡Muchas Gracias!💪🤗
-
-**Puedes apoyarme de la siguiente manera.**
-
-**Suscribiéndote**
-https://www.youtube.com/c/AlgoriSoft?sub_confirmation=1
-
-**Siguiendo**
-https://www.facebook.com/algorisoft
-
-**Donando por PayPal**
-williamjair94@hotmail.com
-
-***AlgoriSoft te desea lo mejor en tu aprendizaje y crecimiento profesional como programador 🤓.***
-
-
